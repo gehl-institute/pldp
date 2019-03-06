@@ -8,19 +8,17 @@ The [Public Life Data Protocol](https://gehlinstitute.org/tool/public-life-data-
 
 ## How to Use the Protocol
 
-The PLDP provides a standard way of documenting the data collected through public life surveys. Therefore, the first step is to plan a survey.
+The PLDP provides a standard way of documenting the data collected through public life surveys. Therefore, the first step is to conduct a survey.
 
-### Plan a Survey
+### Conduct a Survey
 
-Public Life Surveys can be used to measure social and physical elements of public life. We've created tools to help you measure elements such as: people moving, social space, building facade activation. You'll find templates for 9 different surveys in [Survey Templates](/Survey%20Templates).
+Public Life Surveys can be used to measure social and physical elements of public life. We've created tools to help you measure elements such as: people moving, social space, and building facade activation. You'll find templates for 9 different surveys in [Survey Templates](/Survey%20Templates).
 
 Guides (in English and Spanish) for conducting a survey can be found in [Survey Guides](/Survey%20Guides).
 
 ### Compile Your Data
 
 The PLDP provides guidance for compiling your data in a standard format so that it can be compared with other datasets. You can find spreadsheet templates and detailed instructions in [Public Life Data Protocol](Public%20Life%20Data%20Protocol).
-
-## Share Your Results
 
 ## Contributing
 
