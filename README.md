@@ -20,6 +20,10 @@ Guides (in English and Spanish) for conducting a survey can be found in [Survey 
 
 The PLDP provides guidance for compiling your data in a standard format so that it can be compared with other datasets. You can find spreadsheet templates and detailed instructions in [Public Life Data Protocol](Public%20Life%20Data%20Protocol).
 
+## Share Your Results
+
+We're compiling a list of datasets from the PLDP. You can study and learn from others or contribute your results: [pldp-datasets.md](pldp-datasets.md)
+
 ## Contributing
 
 We welcome contributions to the project, please see the [CONTRIBUTING.md](CONTRIBUTING.md) for more details.
