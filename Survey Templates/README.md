@@ -19,4 +19,4 @@ Let us know what you think, open a [new issue](https://github.com/gehl-institute
 **Unfinished**
 - Familiar Stranger Survey
 
-Learn how to use these tools with the [Survey Guides](/tree/master/Survey%20Guides).
+Learn how to use these tools with the [Survey Guides](https://github.com/gehl-institute/pldp/tree/master/Survey%20Guides).
