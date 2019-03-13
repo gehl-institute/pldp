@@ -30,6 +30,8 @@ We welcome contributions to the project, please see the [CONTRIBUTING.md](CONTRI
 
 If you're new to GitHub and feel more comfortable emailing, you can reach us at: [publiclife@gehlinstitute.org](mailto:publiclife@gehlinstitute.org).
 
+This project uses the [Creative Commons Attribution 4.0 International license](license).
+
 ## Code of Conduct
 
 This project uses the [Contributor Covenant Code of Conduct](CODE_OF_CONDUCT.md).

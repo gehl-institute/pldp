@@ -7,3 +7,5 @@ We'd love to hear your ideas on improving the PLDP! Open a [new Issue](https://g
 If you see text that needs to be changed in this project, feel free to open a [Pull Request](https://github.com/gehl-institute/pldp/compare).
 
 If you'd rather email, you can do that too: [publiclife@gehlinstitute.org](mailto:publiclife@gehlinstitute.org).
+
+This project uses a [Creative Commons Attribution 4.0 International license](license).
