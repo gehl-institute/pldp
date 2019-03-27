@@ -6,6 +6,8 @@ The [Public Life Data Protocol](https://gehlinstitute.org/tool/public-life-data-
 
 [Gehl Institute](https://gehlinstitute.org) and its partners—[Gehl](https://gehlpeople.com), the practice, the Municipality of Copenhagen, the City of San Francisco, and with support and input from Seattle DOT—have together developed and launched the Public Life Data Protocol.
 
+**See [our open source announcement](announcement.md).**
+
 ## How to Use the Protocol
 
 The PLDP provides a standard way of documenting the data collected through public life surveys. Therefore, the first step is to conduct a survey.
