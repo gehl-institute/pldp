@@ -18,6 +18,10 @@ Public Life Surveys can be used to measure social and physical elements of publi
 
 Guides (in English and Spanish) for conducting a survey can be found in [Survey Guides](/Survey%20Guides).
 
+#### CommonSpace App by Sidewalk Labs
+
+[Sidewalk Labs](https://www.sidewalklabs.com) built a prototype Andrioid and iOS app, which is open source, to make public life data collection easier. See the [CommonSpace GitHub repository](https://github.com/sidewalklabs/commonspace) for more information.
+
 ### Compile Your Data
 
 The PLDP provides guidance for compiling your data in a standard format so that it can be compared with other datasets. You can find spreadsheet templates and detailed instructions in [Public Life Data Protocol](Public%20Life%20Data%20Protocol).
