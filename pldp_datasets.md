@@ -11,3 +11,4 @@ Below is a list of cities with public datasets generated from using the Public L
 ## Datasets
 
 - New York City, People Moving Count, 01/01/2019, www.example.com
+- Seattle, 2018 Public Life Study, 10/1/2018, www.https://www.seattle.gov/transportation/projects-and-programs/programs/urban-design-program/public-life-program
