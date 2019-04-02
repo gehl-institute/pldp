@@ -30,13 +30,15 @@ The PLDP provides guidance for compiling your data in a standard format so that 
 
 We're compiling a list of datasets from the PLDP. You can study and learn from others or contribute your results: [pldp-datasets.md](pldp-datasets.md)
 
-## Contributing
+## Contributing and Using
 
 We welcome contributions to the project, please see the [CONTRIBUTING.md](CONTRIBUTING.md) for more details.
 
 If you're new to GitHub and feel more comfortable emailing, you can reach us at: [publiclife@gehlinstitute.org](mailto:publiclife@gehlinstitute.org).
 
-This project uses the [Creative Commons Attribution 4.0 International license](license).
+This project uses the [Creative Commons Attribution 4.0 International license](license) with the following attribution text:
+
+> The [Public Life Data Protocol](https://github.com/gehl-institute/pldp) was jointly developed by Gehl Institute, Gehl, the Municipality of Copenhagen, The City of San Francisco, and Seattle Department of Transportation.
 
 ## Code of Conduct
 
