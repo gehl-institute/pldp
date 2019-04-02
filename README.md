@@ -36,7 +36,7 @@ We welcome contributions to the project, please see the [CONTRIBUTING.md](CONTRI
 
 If you're new to GitHub and feel more comfortable emailing, you can reach us at: [publiclife@gehlinstitute.org](mailto:publiclife@gehlinstitute.org).
 
-This project uses the [Creative Commons Attribution 4.0 International license](license) with the following attribution text:
+This project uses the [Creative Commons Attribution 4.0 International license](LICENSE) with the following attribution text:
 
 > The [Public Life Data Protocol](https://github.com/gehl-institute/pldp) was jointly developed by Gehl Institute, Gehl, the Municipality of Copenhagen, The City of San Francisco, and Seattle Department of Transportation.
 
