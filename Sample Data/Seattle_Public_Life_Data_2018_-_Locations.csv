@@ -1,0 +1,1406 @@
+Location_ID,Location_Country,Location_Region,Location_City,Location_Geometry,Location_Name_Primary,Location_Name_Secondary,Location_Subdivision,Element_Key,Transit_Stop_Present,Neighborhood_Type,Neighborhood,Location_Character,line_typology_vehicular,area_typology_category,area_typology_subcategory,Average_number_Commercial_Seats,Average_number_Public_Seats
+ALK1,United States of America,Washington,Seattle,"""geometry"": {
+        ""type"": ""LineString"",
+        ""coordinates"": [
+          [
+            -122.40804255008698,
+            47.580028655538705
+          ],
+          [
+            -122.40706086158752,
+            47.580452032421604
+          ]
+        ]
+      }",ALKI AVE SW,BETWEEN MARINE AVE SW AND 59TH AVE SW,SE,76698,Bus,Outside,Alki,Commercial,Neighborhood Corridor,Street,Block face,0,6
+ALK2,United States of America,Washington,Seattle,"""geometry"": {
+        ""type"": ""LineString"",
+        ""coordinates"": [
+          [
+            -122.40549176931381,
+            47.574377874758106
+          ],
+          [
+            -122.40615695714949,
+            47.57438330327433
+          ]
+        ]
+      }",ALKI AVE SW,BETWEEN 57TH AVE SW AND 58TH AVE SW,SE,8914,None,Outside,Alki,Commercial,Neighborhood Corridor,Street,Block face,23,0
+BAL1,United States of America,Washington,Seattle,"""geometry"": {
+        ""type"": ""LineString"",
+        ""coordinates"": [
+          [
+            -122.38610744476318,
+            47.668638700093084
+          ],
+          [
+            -122.38486289978027,
+            47.66765609311008
+          ]
+        ]
+      }",NW MARKET ST,BETWEEN 22ND AVE NW AND BALLARD AVE NW,N,41721,Bus,Hub Urban Village,Ballard,Commercial,Urban Village Neighborhood,Street,Block face,9,5
+BAL2,United States of America,Washington,Seattle,"""geometry"": {
+        ""type"": ""LineString"",
+        ""coordinates"": [
+          [
+            -122.38763093948363,
+            47.66869649992775
+          ],
+          [
+            -122.38621473312377,
+            47.668667600018416
+          ]
+        ]
+      }",NW MARKET ST,BETWEEN  BALLARD AVE NW AND 24TH AVE NW,N,64321,Bus,Hub Urban Village,Ballard,Commercial,Urban Village Neighborhood,Street,Block face,50,10
+BAL3,United States of America,Washington,Seattle,"""geometry"": {
+        ""type"": ""LineString"",
+        ""coordinates"": [
+          [
+            -122.38318383693695,
+            47.66640974514072
+          ],
+          [
+            -122.38216996192932,
+            47.66551741396583
+          ]
+        ]
+      }",BALLARD AVE NW,BETWEEN NW VERNON PL AND 20TH AVE NW,SW,76961,None,Hub Urban Village,Ballard,Commercial,Urban Village Neighborhood Access,Street,Block face,12,8
+BAL4,United States of America,Washington,Seattle,"""geometry"": {
+        ""type"": ""LineString"",
+        ""coordinates"": [
+          [
+            -122.38515257835388,
+            47.668653150057736
+          ],
+          [
+            -122.38445520401001,
+            47.66865676254828
+          ]
+        ]
+      }",BALLARD AVE NW,BETWEEN NW MARKET ST AND 22ND AVE NW,NE,31854,None,Hub Urban Village,Ballard,Commercial,Urban Village Neighborhood Access,Street,Block face,0,4
+BEA1,United States of America,Washington,Seattle,"""geometry"": {
+        ""type"": ""LineString"",
+        ""coordinates"": [
+          [
+            -122.31212139129639,
+            47.579456910382895
+          ],
+          [
+            -122.310791015625,
+            47.579464147702375
+          ]
+        ]
+      }",S LANDER ST,BETWEEN 16TH AVE S AND 17TH AVE S,N,43105,None,Residential Urban Village,North Beacon Hill,Mixed,Urban Village Neighborhood Access,Street,Block face,8,6
+BEA2,United States of America,Washington,Seattle,"""geometry"": {
+        ""type"": ""LineString"",
+        ""coordinates"": [
+          [
+            -122.31161713600159,
+            47.57863908683892
+          ],
+          [
+            -122.31237888336183,
+            47.57947138502084
+          ]
+        ]
+      }",BEACON AVE S,BETWEEN S LANDER ST AND S MCCLELLAN ST,E,31937,Multiple,Residential Urban Village,North Beacon Hill,Infrastructural,Urban Village Neighborhood,Street,Block face,0,4
+BLT1,United States of America,Washington,Seattle,"""geometry"": {
+        ""type"": ""LineString"",
+        ""coordinates"": [
+          [
+            -122.34210848808287,
+            47.613150261307865
+          ],
+          [
+            -122.3408854007721,
+            47.61239805913494
+          ]
+        ]
+      }",3RD AVE,BETWEEN VIRGINIA ST AND LENORA ST,E,4434,Multiple,Urban Center Village,Belltown,Mixed,Downtown Neighborhood,Street,Block face,0,6
+BLT2,United States of America,Washington,Seattle,"""geometry"": {
+        ""type"": ""LineString"",
+        ""coordinates"": [
+          [
+            -122.34476923942567,
+            47.61469802789569
+          ],
+          [
+            -122.34570264816284,
+            47.6140109409059
+          ]
+        ]
+      }",BELL ST,BETWEEN 2ND AVE AND 3RD AVE,N,77117,None,Urban Center Village,Belltown,Mixed,Downtown Neighborhood Access,Street,Block face,21,18
+BLT3,United States of America,Washington,Seattle,"""geometry"": {
+        ""type"": ""LineString"",
+        ""coordinates"": [
+          [
+            -122.34788060188293,
+            47.61533447936843
+          ],
+          [
+            -122.34697937965392,
+            47.614784817189026
+          ]
+        ]
+      }",2ND AVE,BETWEEN BATTERY ST AND WALL ST,E,70754,None,Urban Center Village,Belltown,Mixed,Downtown,Street,Block face,0,0
+BLT4,United States of America,Washington,Seattle,"""geometry"": {
+        ""type"": ""LineString"",
+        ""coordinates"": [
+          [
+            -122.34136819839478,
+            47.61381566190339
+          ],
+          [
+            -122.34005928039551,
+            47.61305623662794
+          ]
+        ]
+      }",4TH AVE,BETWEEN VIRGINIA ST AND LENORA ST,E,74026,None,Urban Center Village,Belltown,Commercial,Downtown,Street,Block face,29,0
+BLV1,United States of America,Washington,Seattle,"""geometry"": {
+        ""type"": ""LineString"",
+        ""coordinates"": [
+          [
+            -122.34771966934204,
+            47.72688288265778
+          ],
+          [
+            -122.34819173812865,
+            47.72317325528357
+          ]
+        ]
+      }",LINDEN AVE N,BETWEEN N 130TH ST AND N 135TH ST,E (from 130th north to 1st mid block crosswalk),34082,None,Hub Urban Village,Bitter Lake Village,Mixed,Urban Village Neighborhood,Street,Block face,0,0
+BLV2,United States of America,Washington,Seattle,"""geometry"": {
+        ""type"": ""LineString"",
+        ""coordinates"": [
+          [
+            -122.34774112701415,
+            47.726839581138464
+          ],
+          [
+            -122.34819173812865,
+            47.723259864382015
+          ]
+        ]
+      }",LINDEN AVE N,BETWEEN N 130TH ST AND N 135TH ST,E (from 135th south to signalized crosswalk),34082,None,Hub Urban Village,Bitter Lake Village,Mixed,Urban Village Neighborhood,Street,Block face,0,0
+BRY1,United States of America,Washington,Seattle,"""geometry"": {
+        ""type"": ""LineString"",
+        ""coordinates"": [
+          [
+            -122.29300260543825,
+            47.67579094347484
+          ],
+          [
+            -122.29166150093077,
+            47.67579094347484
+          ]
+        ]
+      }",NE 65TH ST,BETWEEN 32ND E AVE NE AND 34TH AVE NE,N,62493,None,Outside,Bryant,Mixed,Urban Center Connector,Street,Block face,12,7
+BRY2,United States of America,Washington,Seattle,"""geometry"": {
+        ""type"": ""LineString"",
+        ""coordinates"": [
+          [
+            -122.29407548904418,
+            47.67576927149074
+          ],
+          [
+            -122.29299187660216,
+            47.675776495486424
+          ]
+        ]
+      }",NE 65TH ST,BETWEEN 31ST AVE NE AND 32ND E AVE NE,N,39845,Bus,Outside,Bryant,Mixed,Urban Center Connector,Street,Block face,0,25
+CAP1,United States of America,Washington,Seattle,"""geometry"": {
+        ""type"": ""LineString"",
+        ""coordinates"": [
+          [
+            -122.32098340988159,
+            47.62308699353493
+          ],
+          [
+            -122.32089757919312,
+            47.62192997485076
+          ]
+        ]
+      }",BROADWAY,BETWEEN HARRISON ST AND REPUBLICAN ST,W,32265,Bus,Urban Center Village,Capitol Hill,Commercial,Urban Village Neighborhood,Street,Block face,0,2
+CAP2,United States of America,Washington,Seattle,"""geometry"": {
+        ""type"": ""LineString"",
+        ""coordinates"": [
+          [
+            -122.31259346008301,
+            47.62315930635246
+          ],
+          [
+            -122.31265783309935,
+            47.62200228926874
+          ]
+        ]
+      }",15TH AVE,BETWEEN HARRISON ST AND REPUBLICAN ST,W,69929,Bus,Urban Center Village,Capitol Hill,Commercial,Urban Village Neighborhood,Street,Block face,15,9
+CAP3,United States of America,Washington,Seattle,"""geometry"": {
+        ""type"": ""LineString"",
+        ""coordinates"": [
+          [
+            -122.32088685035706,
+            47.61989066707899
+          ],
+          [
+            -122.3195457458496,
+            47.61991959398655
+          ]
+        ]
+      }",E JOHN ST,BETWEEN BROADWAY AND 10TH AVE E,S,59594,Multiple,Urban Center Village,Capitol Hill,Infrastructural,Urban Village Neighborhood,Street,Block face,0,2
+CAP4,United States of America,Washington,Seattle,"""geometry"": {
+        ""type"": ""LineString"",
+        ""coordinates"": [
+          [
+            -122.32563972473145,
+            47.61849492477369
+          ],
+          [
+            -122.32625126838684,
+            47.61772833542762
+          ]
+        ]
+      }",E  OLIVE WAY,BETWEEN E HOWELL ST AND DENNY WAY,NW,82477,None,Urban Center Village,Capitol Hill,Commercial,Urban Village Main,Street,Block face,21,4
+CID1,United States of America,Washington,Seattle,"""geometry"": {
+        ""type"": ""LineString"",
+        ""coordinates"": [
+          [
+            -122.3276138305664,
+            47.59918936213052
+          ],
+          [
+            -122.3263692855835,
+            47.59918936213052
+          ]
+        ]
+      }",S JACKSON ST,BETWEEN 5TH AVE AND 6TH AVE,S,88542,Streetcar,Urban Center Village,Chinatown / ID,Commercial,Downtown,Street,Block face,0,0
+CID2,United States of America,Washington,Seattle,"""geometry"": {
+        ""type"": ""LineString"",
+        ""coordinates"": [
+          [
+            -122.32502818107604,
+            47.5983646121576
+          ],
+          [
+            -122.32502818107604,
+            47.597496440246054
+          ]
+        ]
+      }",MAYNARD AVE S,BETWEEN S KING ST AND S WELLER ST,E,79678,None,Urban Center Village,Chinatown / ID,Commercial,Downtown Neighborhood Access,Street,Block face,0,4
+CID3,United States of America,Washington,Seattle,"""geometry"": {
+        ""type"": ""LineString"",
+        ""coordinates"": [
+          [
+            -122.32767820358275,
+            47.598342908035384
+          ],
+          [
+            -122.3263907432556,
+            47.598371846863
+          ]
+        ]
+      }",S KING ST,BETWEEN 5TH AVE AND 6TH AVE,N,43057,None,Urban Center Village,Chinatown / ID,Commercial,Downtown Neighborhood Access,Street,Block face,0,2
+CID4,United States of America,Washington,Seattle,"""geometry"": {
+        ""type"": ""LineString"",
+        ""coordinates"": [
+          [
+            -122.31726050376892,
+            47.599153189158706
+          ],
+          [
+            -122.3141920566559,
+            47.5992110659016
+          ]
+        ]
+      }",S JACKSON ST,BETWEEN 12TH AVE S AND RAINIER AVE S,S,65554,Multiple,Urban Center Village,Chinatown / ID,Commercial,Downtown,Street,Block face,0,4
+COL1,United States of America,Washington,Seattle,"""geometry"": {
+        ""type"": ""LineString"",
+        ""coordinates"": [
+          [
+            -122.2850900888443,
+            47.55785991356879
+          ],
+          [
+            -122.2846609354019,
+            47.557038132521
+          ]
+        ]
+      }",RAINIER AVE S,BETWEEN S FERDINAND ST AND S HUDSON ST,E,12402,None,Residential Urban Village,Columbia City,Commercial,Urban Village Main,Street,Block face,25,3
+COL2,United States of America,Washington,Seattle,"""geometry"": {
+        ""type"": ""LineString"",
+        ""coordinates"": [
+          [
+            -122.28547632694244,
+            47.55865634105204
+          ],
+          [
+            -122.28506326675414,
+            47.55784543295702
+          ]
+        ]
+      }",RAINIER AVE S,BETWEEN S EDMUNDS ST AND S FERDINAND ST,W,35021,None,Residential Urban Village,Columbia City,Commercial,Urban Village Main,Street,Block face,0,7
+COM1,United States of America,Washington,Seattle,"""geometry"": {
+        ""type"": ""LineString"",
+        ""coordinates"": [
+          [
+            -122.3314118385315,
+            47.60275589434988
+          ],
+          [
+            -122.33030676841737,
+            47.60321887461678
+          ]
+        ]
+      }",JAMES ST,BETWEEN 3RD AVE AND 4TH AVE,S,56318,Bus,Urban Center Village,Commercial Core,CBD,Downtown,Street,Block face,0,8
+COM2,United States of America,Washington,Seattle,"""geometry"": {
+        ""type"": ""LineString"",
+        ""coordinates"": [
+          [
+            -122.34005928039551,
+            47.608846650831694
+          ],
+          [
+            -122.33894884586334,
+            47.60929872740193
+          ]
+        ]
+      }",PIKE ST,BETWEEN 1ST AVE AND 2ND AVE,S,57502,None,Urban Center Village,Commercial Core,CBD,Downtown Neighborhood,Street,Block face,9,0
+COM3,United States of America,Washington,Seattle,"""geometry"": {
+        ""type"": ""LineString"",
+        ""coordinates"": [
+          [
+            -122.33870208263397,
+            47.610738113173404
+          ],
+          [
+            -122.3378276824951,
+            47.60977249945408
+          ]
+        ]
+      }",3RD AVE,BETWEEN PIKE ST AND PINE ST,W,49645,Multiple,Urban Center Village,Commercial Core,CBD,Downtown Neighborhood,Street,Block face,0,0
+COM4,United States of America,Washington,Seattle,"""geometry"": {
+        ""type"": ""LineString"",
+        ""coordinates"": [
+          [
+            -122.3391044139862,
+            47.60780505154077
+          ],
+          [
+            -122.33819246292113,
+            47.60681406629351
+          ]
+        ]
+      }",1ST AVE,BETWEEN UNIVERSITY ST AND UNION ST,W,68909,None,Urban Center Village,Commercial Core,CBD,Downtown Neighborhood,Street,Block face,7,0
+CRO1,United States of America,Washington,Seattle,"""geometry"": {
+        ""type"": ""LineString"",
+        ""coordinates"": [
+          [
+            -122.37426280975342,
+            47.695494275530464
+          ],
+          [
+            -122.37291097640991,
+            47.69621639702389
+          ]
+        ]
+      }",HOLMAN RD NW,BETWEEN 14TH AVE NW AND 13TH W AVE NW,SE,56226,None,Residential Urban Village,Crown Hill,Residential,Urban Village Main,Street,Block face,0,0
+CRO2,United States of America,Washington,Seattle,"""geometry"": {
+        ""type"": ""LineString"",
+        ""coordinates"": [
+          [
+            -122.3768162727356,
+            47.69061969386972
+          ],
+          [
+            -122.37543225288391,
+            47.69062691580919
+          ]
+        ]
+      }",NW 85TH ST,BETWEEN 15TH AVE NW AND MARY AVE NW,S,86970,Bus,Residential Urban Village,Crown Hill,Commercial,Urban Village Main,Street,Block face,0,0
+DEN1,United States of America,Washington,Seattle,"""geometry"": {
+        ""type"": ""LineString"",
+        ""coordinates"": [
+          [
+            -122.33656167984009,
+            47.615725025300584
+          ],
+          [
+            -122.33575701713562,
+            47.61639039313347
+          ]
+        ]
+      }",VIRGINIA ST,BETWEEN 8TH AVE AND 9TH AVE,SE,35914,None,Urban Center Village,Denny Triangle,CBD,Downtown Neighborhood,Street,Block face,0,0
+DEN2,United States of America,Washington,Seattle,"""geometry"": {
+        ""type"": ""LineString"",
+        ""coordinates"": [
+          [
+            -122.34086394309999,
+            47.6159202971728
+          ],
+          [
+            -122.34002709388733,
+            47.61660012689093
+          ]
+        ]
+      }",BLANCHARD ST,BETWEEN 6TH AVE AND 7TH AVE,SE,77230,None,Urban Center Village,Denny Triangle,CBD,Downtown Neighborhood Access,Street,Block face,0,12
+DEN3,United States of America,Washington,Seattle,"""geometry"": {
+        ""type"": ""LineString"",
+        ""coordinates"": [
+          [
+            -122.33871817588805,
+            47.61579734830123
+          ],
+          [
+            -122.33745217323303,
+            47.61500902219679
+          ]
+        ]
+      }",7TH AVE,BETWEEN LENORA ST AND VIRGINIA ST,SW,53429,None,Urban Center Village,Denny Triangle,CBD,Downtown Neighborhood,Street,Block face,18,18
+DEN4,United States of America,Washington,Seattle,"""geometry"": {
+        ""type"": ""LineString"",
+        ""coordinates"": [
+          [
+            -122.34091758728027,
+            47.61590583261467
+          ],
+          [
+            -122.33964085578917,
+            47.61514643769413
+          ]
+        ]
+      }",6TH AVE,BETWEEN BLANCHARD ST AND LENORA ST,SW,8005,None,Urban Center Village,Denny Triangle,Mixed,Downtown,Street,Block face,28,32
+FHT1,United States of America,Washington,Seattle,"""geometry"": {
+        ""type"": ""LineString"",
+        ""coordinates"": [
+          [
+            -122.32414841651917,
+            47.604846507093406
+          ],
+          [
+            -122.32283949851988,
+            47.60341419318794
+          ]
+        ]
+      }",9TH AVE,BETWEEN ALDER ST AND JEFFERSON ST,SW,76401,None,Urban Center Village,First Hill / 12th Ave,Medical,Urban Village Neighborhood,Street,Block face,0,0
+FHT2,United States of America,Washington,Seattle,"""geometry"": {
+        ""type"": ""LineString"",
+        ""coordinates"": [
+          [
+            -122.3207902908325,
+            47.610401777833935
+          ],
+          [
+            -122.3208010196686,
+            47.60922277881122
+          ]
+        ]
+      }",BROADWAY,BETWEEN MARION ST AND COLUMBIA ST,W,32257,Multiple,Urban Center Village,First Hill / 12th Ave,Medical,Urban Village Neighborhood,Street,Block face,0,33
+FHT3,United States of America,Washington,Seattle,"""geometry"": {
+        ""type"": ""LineString"",
+        ""coordinates"": [
+          [
+            -122.32630491256712,
+            47.60883941757483
+          ],
+          [
+            -122.32510328292845,
+            47.60933127676417
+          ]
+        ]
+      }",MADISON ST,BETWEEN TERRY AVE AND BOREN AVE,NW,79577,Bus,Urban Center Village,First Hill / 12th Ave,Commercial,Urban Village Main,Street,Block face,0,4
+FHT4,United States of America,Washington,Seattle,"""geometry"": {
+        ""type"": ""LineString"",
+        ""coordinates"": [
+          [
+            -122.31679111719131,
+            47.607414446458804
+          ],
+          [
+            -122.31678575277328,
+            47.606823108214606
+          ]
+        ]
+      }",12TH AVE,BETWEEN E BARCLAY CT AND E JAMES CT,E,46730,None,Urban Center Village,First Hill / 12th Ave,Recreational,Urban Village Neighborhood,Street,Block face,0,0
+FRE1,United States of America,Washington,Seattle,"""geometry"": {
+        ""type"": ""LineString"",
+        ""coordinates"": [
+          [
+            -122.34981179237366,
+            47.64956125868964
+          ],
+          [
+            -122.34729051589966,
+            47.64917819322258
+          ]
+        ]
+      }",N 34TH ST,BETWEEN FREMONT AVE N AND TROLL AVE N,N,15381,None,Hub Urban Village,Fremont,Commercial,Urban Village Main,Street,Block face,0,20
+FRE2,United States of America,Washington,Seattle,"""geometry"": {
+        ""type"": ""LineString"",
+        ""coordinates"": [
+          [
+            -122.34991908073424,
+            47.65133561019491
+          ],
+          [
+            -122.34985202550888,
+            47.650508068827186
+          ]
+        ]
+      }",FREMONT AVE N,BETWEEN FREMONT PL N AND N 36TH ST,W,33273,None,Hub Urban Village,Fremont,Commercial,Urban Village Neighborhood,Street,Block face,0,16
+GEO1,United States of America,Washington,Seattle,"""geometry"": {
+        ""type"": ""LineString"",
+        ""coordinates"": [
+          [
+            -122.31710493564606,
+            47.54919979336194
+          ],
+          [
+            -122.3173838853836,
+            47.54868202344753
+          ]
+        ]
+      }",12TH AVE S,BETWEEN S HARNEY ST AND S VALE ST,E,24670,None,Outside,Georgetown,Commercial,Neighborhood Yield Street,Street,Block face,0,9
+GEO2,United States of America,Washington,Seattle,"""geometry"": {
+        ""type"": ""LineString"",
+        ""coordinates"": [
+          [
+            -122.31781303882597,
+            47.550112214608184
+          ],
+          [
+            -122.31724977493285,
+            47.5495329013722
+          ]
+        ]
+      }",AIRPORT WAY S,BETWEEN S DORIS ST AND S NEBRASKA ST,SW,76594,Bus,Outside,Georgetown,Commercial,Industrial Access,Street,Block face,0,0
+GPR1,United States of America,Washington,Seattle,"""geometry"": {
+        ""type"": ""LineString"",
+        ""coordinates"": [
+          [
+            -122.35524058341979,
+            47.692421536768514
+          ],
+          [
+            -122.35522985458373,
+            47.690587195129666
+          ]
+        ]
+      }",GREENWOOD AVE N,BETWEEN N 85TH ST AND N 87TH ST,E,10790,Bus,Residential Urban Village,Greenwood - Phinney Ridge,Commercial,Urban Village Neighborhood,Street,Block face,11,0
+GPR2,United States of America,Washington,Seattle,"""geometry"": {
+        ""type"": ""LineString"",
+        ""coordinates"": [
+          [
+            -122.35535323619841,
+            47.69240348253922
+          ],
+          [
+            -122.35536932945251,
+            47.69062330483958
+          ]
+        ]
+      }",GREENWOOD AVE N,BETWEEN N 85TH ST AND N 87TH ST,W,10789,None,Residential Urban Village,Greenwood - Phinney Ridge,Commercial,Urban Village Neighborhood,Street,Block face,0,9
+GPR3,United States of America,Washington,Seattle,"""geometry"": {
+        ""type"": ""LineString"",
+        ""coordinates"": [
+          [
+            -122.355278134346,
+            47.690587195129666
+          ],
+          [
+            -122.3553156852722,
+            47.689836107494706
+          ]
+        ]
+      }",GREENWOOD AVE N,BETWEEN N 84TH ST AND N 85TH ST,E,78690,None,Residential Urban Village,Greenwood - Phinney Ridge,Commercial,Urban Village Neighborhood,Street,Block face,0,0
+GPR4,United States of America,Washington,Seattle,"""geometry"": {
+        ""type"": ""LineString"",
+        ""coordinates"": [
+          [
+            -122.35530495643616,
+            47.683296132581944
+          ],
+          [
+            -122.35529959201813,
+            47.68253049383115
+          ]
+        ]
+      }",GREENWOOD AVE N,BETWEEN N 74TH ST AND N 75TH ST,W,10777,Bus,Residential Urban Village,Greenwood - Phinney Ridge,Commercial,Urban Village Neighborhood,Street,Block face,8,13
+LAK1,United States of America,Washington,Seattle,"""geometry"": {
+        ""type"": ""LineString"",
+        ""coordinates"": [
+          [
+            -122.2963285446167,
+            47.71740620882393
+          ],
+          [
+            -122.2954487800598,
+            47.7187920905245
+          ]
+        ]
+      }",LAKE CITY WAY NE,BETWEEN NE 123RD ST AND 31ST AVE NE,SE,33814,None,Hub Urban Village,Lake City,Commercial,Urban Village Main,Street,Block face,0,2
+LAK2,United States of America,Washington,Seattle,"""geometry"": {
+        ""type"": ""LineString"",
+        ""coordinates"": [
+          [
+            -122.2941291332245,
+            47.721080158281964
+          ],
+          [
+            -122.29527711868286,
+            47.719275696816574
+          ]
+        ]
+      }",LAKE CITY WAY NE,BETWEEN NE 125TH ST AND NE 127TH ST,NW,79161,None,Hub Urban Village,Lake City,Commercial,Urban Village Main,Street,Block face,0,4
+MAG1,United States of America,Washington,Seattle,"""geometry"": {
+        ""type"": ""LineString"",
+        ""coordinates"": [
+          [
+            -122.39834368228911,
+            47.63957353465201
+          ],
+          [
+            -122.39962309598923,
+            47.63957172740049
+          ]
+        ]
+      }",W MCGRAW ST,BETWEEN 32ND AVE W AND 33RD AVE W,N,45957,None,Outside,Magnolia,Commercial,Neighborhood Corridor,Street,Block face,11,29
+MAG2,United States of America,Washington,Seattle,"""geometry"": {
+        ""type"": ""LineString"",
+        ""coordinates"": [
+          [
+            -122.39963114261626,
+            47.639537389610076
+          ],
+          [
+            -122.39836513996124,
+            47.639537389610076
+          ]
+        ]
+      }",W MCGRAW ST,BETWEEN 32ND AVE W AND 33RD AVE W,S,45958,None,Outside,Magnolia,Commercial,Neighborhood Corridor,Street,Block face,0,17
+MAM1,United States of America,Washington,Seattle,"""geometry"": {
+        ""type"": ""LineString"",
+        ""coordinates"": [
+          [
+            -122.3026156425476,
+            47.61921088014433
+          ],
+          [
+            -122.3011565208435,
+            47.620208862181705
+          ]
+        ]
+      }",E MADISON ST,BETWEEN 23RD AVE E AND 24TH AVE E,NW,36913,None,Residential Urban Village,Madison Miller,Mixed,Urban Village Neighborhood,Street,Block face,0,7
+MAM2,United States of America,Washington,Seattle,"""geometry"": {
+        ""type"": ""LineString"",
+        ""coordinates"": [
+          [
+            -122.30728268623352,
+            47.62439584005173
+          ],
+          [
+            -122.3073363304138,
+            47.62322438780268
+          ]
+        ]
+      }",19TH AVE E,BETWEEN E REPUBLICAN ST AND E MERCER ST,E,2694,Bus,Residential Urban Village,Madison Miller,Mixed,Urban Village Neighborhood,Street,Block face,6,6
+MAP1,United States of America,Washington,Seattle,"""geometry"": {
+        ""type"": ""LineString"",
+        ""coordinates"": [
+          [
+            -122.27953791618346,
+            47.63477144682534
+          ],
+          [
+            -122.27849721908568,
+            47.63545103141443
+          ]
+        ]
+      }",E MADISON ST,BETWEEN 41ST AVE E AND 42ND AVE E,NW,14441,None,Outside,Madison Park,Commercial,Neighborhood Corridor,Street,Block face,0,16
+MAP2,United States of America,Washington,Seattle,"""geometry"": {
+        ""type"": ""LineString"",
+        ""coordinates"": [
+          [
+            -122.28117942810059,
+            47.633650835913095
+          ],
+          [
+            -122.27977395057677,
+            47.634608778990376
+          ]
+        ]
+      }",E MADISON ST,BETWEEN MCGILVRA N BV E AND E BLAINE ST,NW,82249,None,Outside,Madison Park,Commercial,Neighborhood Corridor,Street,Block face,3,10
+MTB1,United States of America,Washington,Seattle,"""geometry"": {
+        ""type"": ""LineString"",
+        ""coordinates"": [
+          [
+            -122.29098558425902,
+            47.57156763730042
+          ],
+          [
+            -122.29102849960329,
+            47.56995344689173
+          ]
+        ]
+      }",33RD AVE S,BETWEEN S SPOKANE ST AND RAINIER AVE S,E,73122,None,Hub Urban Village,Mt Baker,Mixed,Urban Village Neighborhood Access,Street,Block face,0,0
+MTB2,United States of America,Washington,Seattle,"""geometry"": {
+        ""type"": ""LineString"",
+        ""coordinates"": [
+          [
+            -122.29752480983734,
+            47.577553460630945
+          ],
+          [
+            -122.29659676551819,
+            47.57636648355082
+          ]
+        ]
+      }",RAINIER AVE S,BETWEEN S FOREST ST AND M L KING JR WAY S,W,12374,Multiple,Hub Urban Village,Mt Baker,Mixed,Urban Village Main,Street,Block face,0,6
+NOR1,United States of America,Washington,Seattle,"""geometry"": {
+        ""type"": ""LineString"",
+        ""coordinates"": [
+          [
+            -122.32327938079834,
+            47.70854146856839
+          ],
+          [
+            -122.32315063476562,
+            47.70493883459154
+          ]
+        ]
+      }",5TH AVE NE,BETWEEN NE NORTHGATE WAY AND NE 105TH ST,E (between NE 105th St to driveway north of public library),7270,Bus,Urban Center,Northgate,Civic,Urban Village Neighborhood,Street,Block face,0,68
+NOR2,United States of America,Washington,Seattle,"""geometry"": {
+        ""type"": ""LineString"",
+        ""coordinates"": [
+          [
+            -122.32327401638031,
+            47.708592004748915
+          ],
+          [
+            -122.32055962085725,
+            47.7085811755715
+          ]
+        ]
+      }",NE NORTHGATE WAY,BETWEEN 5TH AVE NE AND 8TH AVE NE,S (between 5th Ave NE and driveway midblock),85994,Bus,Urban Center,Northgate,Mixed,Urban Village Main,Street,Block face,0,8
+OTH1,United States of America,Washington,Seattle,"""geometry"": {
+        ""type"": ""LineString"",
+        ""coordinates"": [
+          [
+            -122.28180170059206,
+            47.53887601640358
+          ],
+          [
+            -122.28087902069092,
+            47.53700730773637
+          ]
+        ]
+      }",M L KING JR ER WAY S,BETWEEN S MYRTLE ST AND S OTHELLO ST,E,122963,Multiple,Residential Urban Village,Othello,Commercial,Urban Village Main,Street,Block face,0,6
+OTH2,United States of America,Washington,Seattle,"""geometry"": {
+        ""type"": ""LineString"",
+        ""coordinates"": [
+          [
+            -122.28225231170654,
+            47.53890498810667
+          ],
+          [
+            -122.28132963180542,
+            47.53701455092178
+          ]
+        ]
+      }",M L KING JR ER WAY S,BETWEEN S MYRTLE ST AND S OTHELLO ST,W,122964,Multiple,Residential Urban Village,Othello,Commercial,Urban Village Main,Street,Block face,0,3
+PIK1,United States of America,Washington,Seattle,"""geometry"": {
+        ""type"": ""LineString"",
+        ""coordinates"": [
+          [
+            -122.3207902908325,
+            47.61409049880896
+          ],
+          [
+            -122.32081174850464,
+            47.61292604833049
+          ]
+        ]
+      }",BROADWAY,BETWEEN UNION ST AND PIKE ST,E,77370,None,Urban Center Village,Pike/Pine,Commercial,Urban Village Neighborhood,Street,Block face,0,0
+PIK2,United States of America,Washington,Seattle,"""geometry"": {
+        ""type"": ""LineString"",
+        ""coordinates"": [
+          [
+            -122.3194706439972,
+            47.6152585395429
+          ],
+          [
+            -122.31945991516112,
+            47.614097731339626
+          ]
+        ]
+      }",10TH AVE,BETWEEN PIKE ST AND PINE ST,W,1233,None,Urban Center Village,Pike/Pine,Commercial,Urban Village Neighborhood Access,Street,Block face,36,0
+PIK3,United States of America,Washington,Seattle,"""geometry"": {
+        ""type"": ""LineString"",
+        ""coordinates"": [
+          [
+            -122.32083320617674,
+            47.61525492335797
+          ],
+          [
+            -122.32082784175871,
+            47.614076033744695
+          ]
+        ]
+      }",BROADWAY,BETWEEN PIKE ST AND PINE ST,W,54725,Multiple,Urban Center Village,Pike/Pine,Commercial,Urban Village Neighborhood,Street,Block face,0,0
+PIK4,United States of America,Washington,Seattle,"""geometry"": {
+        ""type"": ""LineString"",
+        ""coordinates"": [
+          [
+            -122.32552707195282,
+            47.615233226243234
+          ],
+          [
+            -122.32448101043701,
+            47.61524045861581
+          ]
+        ]
+      }",PINE ST,BETWEEN SUMMIT AVE AND BELMONT AVE,N,60001,Bus,Urban Center Village,Pike/Pine,Mixed,Urban Village Neighborhood,Street,Block face,0,34
+PIO1,United States of America,Washington,Seattle,"""geometry"": {
+        ""type"": ""LineString"",
+        ""coordinates"": [
+          [
+            -122.33155131340025,
+            47.600860526160645
+          ],
+          [
+            -122.33154058456421,
+            47.59999963014494
+          ]
+        ]
+      }",2ND AVE EXT S,BETWEEN S MAIN ST AND S WASHINGTON ST,SW,48125,None,Urban Center Village,Pioneer Square,CBD,Downtown,Street,Block face,0,7
+PIO2,United States of America,Washington,Seattle,"""geometry"": {
+        ""type"": ""LineString"",
+        ""coordinates"": [
+          [
+            -122.33162373304366,
+            47.59920563995969
+          ],
+          [
+            -122.33150035142899,
+            47.59920925725437
+          ]
+        ]
+      }",S JACKSON ST,BETWEEN 2ND AVE S AND 2ND AVE EXT S,S,88538,None,Urban Center Village,Pioneer Square,CBD,Downtown,Street,Block face,0,0
+PIO3,United States of America,Washington,Seattle,"""geometry"": {
+        ""type"": ""LineString"",
+        ""coordinates"": [
+          [
+            -122.33424961566924,
+            47.60087137770069
+          ],
+          [
+            -122.33424961566924,
+            47.600071974893126
+          ]
+        ]
+      }",1ST AVE,BETWEEN S WASHINGTON ST AND S MAIN ST,W,1217,None,Urban Center Village,Pioneer Square,Commercial,Downtown Neighborhood,Street,Block face,28,0
+PIO4,United States of America,Washington,Seattle,"""geometry"": {
+        ""type"": ""LineString"",
+        ""coordinates"": [
+          [
+            -122.33252495527269,
+            47.60230737830889
+          ],
+          [
+            -122.33198314905167,
+            47.60173587649157
+          ]
+        ]
+      }",2ND AVE,BETWEEN YESLER WAY AND JAMES ST,E,70726,None,Urban Center Village,Pioneer Square,CBD,Downtown,Street,Block face,44,0
+RAI1,United States of America,Washington,Seattle,"""geometry"": {
+        ""type"": ""LineString"",
+        ""coordinates"": [
+          [
+            -122.26163685321808,
+            47.52026925588948
+          ],
+          [
+            -122.26165294647215,
+            47.51897229575296
+          ]
+        ]
+      }",57TH AVE S,BETWEEN RAINIER AVE S AND S FLETCHER ST,E,7898,Bus,Residential Urban Village,Rainier Beach,Commercial,Urban Village Neighborhood,Street,Block face,0,0
+RAI2,United States of America,Washington,Seattle,"""geometry"": {
+        ""type"": ""LineString"",
+        ""coordinates"": [
+          [
+            -122.26509153842926,
+            47.51985988366671
+          ],
+          [
+            -122.2627204656601,
+            47.52013521400896
+          ]
+        ]
+      }",RAINIER AVE S,BETWEEN 54TH AVE S AND 56TH AVE S,S,12434,Bus,Residential Urban Village,Rainier Beach,Commercial,Urban Village Main,Street,Block face,0,2
+RAV1,United States of America,Washington,Seattle,"""geometry"": {
+        ""type"": ""LineString"",
+        ""coordinates"": [
+          [
+            -122.30065226554869,
+            47.66799567261513
+          ],
+          [
+            -122.30065762996675,
+            47.66629414034255
+          ]
+        ]
+      }",25TH AVE NE,BETWEEN NE BLAKELEY ST AND NE 54TH ST,W,26665,None,Urban Center Village,Ravenna,Mixed,Urban Village Main,Street,Block face,0,0
+RAV2,United States of America,Washington,Seattle,"""geometry"": {
+        ""type"": ""LineString"",
+        ""coordinates"": [
+          [
+            -122.3006683588028,
+            47.668523100231695
+          ],
+          [
+            -122.3006683588028,
+            47.66799567261513
+          ]
+        ]
+      }",25TH AVE NE,BETWEEN NE 54TH ST AND NE 55TH ST,W,26669,Bus,Urban Center Village,Ravenna,Commercial,Urban Village Main,Street,Block face,0,0
+RAV3,United States of America,Washington,Seattle,"""geometry"": {
+        ""type"": ""LineString"",
+        ""coordinates"": [
+          [
+            -122.30058252811432,
+            47.66799206007883
+          ],
+          [
+            -122.30055570602417,
+            47.66627968972479
+          ]
+        ]
+      }",25TH AVE NE,BETWEEN NE BLAKELEY ST AND NE 54TH ST,E,26666,Bus,Urban Center Village,Ravenna,Commercial,Urban Village Main,Street,Block face,0,0
+RAV4,United States of America,Washington,Seattle,"""geometry"": {
+        ""type"": ""LineString"",
+        ""coordinates"": [
+          [
+            -122.30058252811432,
+            47.66854116272689
+          ],
+          [
+            -122.30057179927825,
+            47.66800289768698
+          ]
+        ]
+      }",25TH AVE NE,BETWEEN NE 54TH ST AND NE 55TH ST,E,26670,None,Urban Center Village,Ravenna,Commercial,Urban Village Main,Street,Block face,0,0
+RSV1,United States of America,Washington,Seattle,"""geometry"": {
+        ""type"": ""LineString"",
+        ""coordinates"": [
+          [
+            -122.31738924980164,
+            47.67583789940951
+          ],
+          [
+            -122.31569945812225,
+            47.675841511402716
+          ]
+        ]
+      }",NE 65TH ST,BETWEEN ROOSEVELT WAY NE AND 12TH AVE NE,N,62457,None,Residential Urban Village,Roosevelt,Mixed,Urban Village Neighborhood,Street,Block face,0,11
+RSV2,United States of America,Washington,Seattle,"""geometry"": {
+        ""type"": ""LineString"",
+        ""coordinates"": [
+          [
+            -122.31739729642868,
+            47.67498365599019
+          ],
+          [
+            -122.3173838853836,
+            47.67416010152569
+          ]
+        ]
+      }",ROOSEVELT WAY NE,BETWEEN NE 63RD ST AND NE 64TH ST,W,80593,None,Residential Urban Village,Roosevelt,Commercial,Urban Village Main,Street,Block face,0,1
+SLU1,United States of America,Washington,Seattle,"""geometry"": {
+        ""type"": ""LineString"",
+        ""coordinates"": [
+          [
+            -122.33169615268707,
+            47.62196974779305
+          ],
+          [
+            -122.33170688152312,
+            47.62082355178228
+          ]
+        ]
+      }",POINTUS AVE N,BETWEEN HARRISON ST AND THOMAS ST,W,34881,None,Urban Center,South Lake Union,Recreational,Urban Village Neighborhood Access,Street,Block face,0,0
+SLU2,United States of America,Washington,Seattle,"""geometry"": {
+        ""type"": ""LineString"",
+        ""coordinates"": [
+          [
+            -122.33720541000366,
+            47.62320992526519
+          ],
+          [
+            -122.33720541000366,
+            47.62201675214034
+          ]
+        ]
+      }",TERRY AVE N,BETWEEN  HARRISON ST AND REPUBLICAN ST,E,58422,None,Urban Center,South Lake Union,CBD,Urban Village Neighborhood Access,Street,Block face,0,78
+SLU3,United States of America,Washington,Seattle,"""geometry"": {
+        ""type"": ""LineString"",
+        ""coordinates"": [
+          [
+            -122.33431935310364,
+            47.6231520750752
+          ],
+          [
+            -122.33429253101347,
+            47.62203483072421
+          ]
+        ]
+      }",FAIRVIEW AVE N,BETWEEN HARRISON ST AND REPUBLICAN ST,E,55642,Bus,Urban Center,South Lake Union,CBD,Urban Village Main,Street,Block face,0,34
+SLU4,United States of America,Washington,Seattle,"""geometry"": {
+        ""type"": ""LineString"",
+        ""coordinates"": [
+          [
+            -122.33846336603165,
+            47.622045677871526
+          ],
+          [
+            -122.33718127012251,
+            47.6220275992914
+          ]
+        ]
+      }",HARRISON ST,BETWEEN WESTLAKE AVE N AND TERRY AVE N,S,78702,None,Urban Center,South Lake Union,CBD,Urban Village Neighborhood Access,Street,Block face,0,0
+SOP1,United States of America,Washington,Seattle,"""geometry"": {
+        ""type"": ""LineString"",
+        ""coordinates"": [
+          [
+            -122.31497526168823,
+            47.52735849646078
+          ],
+          [
+            -122.31498599052428,
+            47.52642394522276
+          ]
+        ]
+      }",14TH AVE S,BETWEEN DALLAS AVE S AND S CLOVERDALE ST,W,47157,Bus,Residential Urban Village,South Park,Commercial,Urban Village Main,Street,Block face,0,2
+SOP2,United States of America,Washington,Seattle,"""geometry"": {
+        ""type"": ""LineString"",
+        ""coordinates"": [
+          [
+            -122.31498599052428,
+            47.52643118987004
+          ],
+          [
+            -122.31500744819641,
+            47.525605293635365
+          ]
+        ]
+      }",14TH AVE S,BETWEEN S CLOVERDALE ST AND S DONOVAN ST,W,47161,None,Residential Urban Village,South Park,Commercial,Urban Village Main,Street,Block face,0,1
+TUJ1,United States of America,Washington,Seattle,"""geometry"": {
+        ""type"": ""LineString"",
+        ""coordinates"": [
+          [
+            -122.30626881122589,
+            47.61294051371287
+          ],
+          [
+            -122.30496525764464,
+            47.61295136274705
+          ]
+        ]
+      }",E UNION ST,BETWEEN 20TH AVE AND 21ST AVE,N,82797,Bus,Residential Urban Village,23rd & Union - Jackson,Mixed,Urban Village Neighborhood,Street,Block face,0,8
+TUJ2,United States of America,Washington,Seattle,"""geometry"": {
+        ""type"": ""LineString"",
+        ""coordinates"": [
+          [
+            -122.30219721794128,
+            47.59932681919537
+          ],
+          [
+            -122.29992270469664,
+            47.599319584622
+          ]
+        ]
+      }",S JACKSON ST,BETWEEN 23RD AVE S AND 25TH AVE S,N,65565,Bus,Residential Urban Village,23rd & Union - Jackson,Commercial,Urban Village Neighborhood,Street,Block face,0,36
+UNI1,United States of America,Washington,Seattle,"""geometry"": {
+        ""type"": ""LineString"",
+        ""coordinates"": [
+          [
+            -122.31325864791869,
+            47.65977289265527
+          ],
+          [
+            -122.31330156326293,
+            47.65830595130775
+          ]
+        ]
+      }",UNIVERSITY WAY NE,BETWEEN NE 42ND ST AND NE 43RD ST,W (north from 42nd to crosswalk),13213,None,Urban Center Village,University District Northwest,Commercial,Urban Village Neighborhood,Street,Block face,0,0.3
+UNI2,United States of America,Washington,Seattle,"""geometry"": {
+        ""type"": ""LineString"",
+        ""coordinates"": [
+          [
+            -122.31314063072203,
+            47.658298724893676
+          ],
+          [
+            -122.3130977153778,
+            47.6597801188653
+          ]
+        ]
+      }
+    }",UNIVERSITY WAY NE,BETWEEN NE 42ND ST AND NE 43RD ST,E (north from 42nd to crosswalk),13214,None,Urban Center Village,University District Northwest,Commercial,Urban Village Neighborhood,Street,Block face,0,10
+UNI3,United States of America,Washington,Seattle,"""geometry"": {
+        ""type"": ""LineString"",
+        ""coordinates"": [
+          [
+            -122.3143744468689,
+            47.65978734507434
+          ],
+          [
+            -122.3131513595581,
+            47.659758440232196
+          ]
+        ]
+      }",NE 43RD ST,BETWEEN BROOKLYN AVE NE AND UNIVERSITY WAY NE,S (from The Ave Westward to the alley),39394,None,Urban Center Village,University District Northwest,Commercial,Urban Village Neighborhood,Street,Block face,0,12
+UNI4,United States of America,Washington,Seattle,"""geometry"": {
+        ""type"": ""LineString"",
+        ""coordinates"": [
+          [
+            -122.31323719024658,
+            47.658342083363145
+          ],
+          [
+            -122.31203556060791,
+            47.658342083363145
+          ]
+        ]
+      }",NE 42ND ST,BETWEEN UNIVERSITY WAY NE AND 15TH AVE NE,N,16941,None,Urban Center Village,University District Northwest,Mixed,Urban Village Neighborhood Access,Street,Block face,0,0
+UPT1,United States of America,Washington,Seattle,"""geometry"": {
+        ""type"": ""LineString"",
+        ""coordinates"": [
+          [
+            -122.35673189163207,
+            47.62457661738161
+          ],
+          [
+            -122.35666751861572,
+            47.62327500665241
+          ]
+        ]
+      }",QUEEN ANNE AVE N,BETWEEN REPUBLICAN ST AND MERCER ST,W,34937,Multiple,Urban Center,Uptown,Commercial,Urban Village Main,Street,Block face,0,19
+UPT2,United States of America,Washington,Seattle,"""geometry"": {
+        ""type"": ""LineString"",
+        ""coordinates"": [
+          [
+            -122.34628200531006,
+            47.619731568801434
+          ],
+          [
+            -122.34629809856413,
+            47.61856724394312
+          ]
+        ]
+      }",TAYLOR AVE N,BETWEEN JOHN ST AND DENNY WAY,E,35694,None,,,Mixed,Urban Village Neighborhood Access,Street,Block face,0,18
+UPT3,United States of America,Washington,Seattle,"""geometry"": {
+        ""type"": ""LineString"",
+        ""coordinates"": [
+          [
+            -122.34754800796507,
+            47.62458023292182
+          ],
+          [
+            -122.34626054763795,
+            47.624573001841114
+          ]
+        ]
+      }",MERCER ST,BETWEEN 5TH AVE N AND TAYLOR AVE N,N,79769,None,Urban Center,Uptown,Mixed,Urban Village Main,Street,Block face,0,6
+UPT4,United States of America,Washington,Seattle,"""geometry"": {
+        ""type"": ""LineString"",
+        ""coordinates"": [
+          [
+            -122.35801398754118,
+            47.62458023292182
+          ],
+          [
+            -122.35798716545105,
+            47.62327500665241
+          ]
+        ]
+      }",1ST AVE W,BETWEEN W REPUBLICAN ST AND W MERCER ST,W,24269,None,Urban Center,Uptown,Mixed,Urban Village Neighborhood,Street,Block face,0,8
+UQA1,United States of America,Washington,Seattle,"""geometry"": {
+        ""type"": ""LineString"",
+        ""coordinates"": [
+          [
+            -122.35696792602538,
+            47.6395934144144
+          ],
+          [
+            -122.35700011253357,
+            47.63838615694347
+          ]
+        ]
+      }",QUEEN ANNE AVE N,BETWEEN W BOSTON ST AND MCGRAW ST,W,34945,Bus,Residential Urban Village,Upper Queen Anne,Commercial,Urban Village Neighborhood,Street,Block face,0,15
+UQA2,United States of America,Washington,Seattle,"""geometry"": {
+        ""type"": ""LineString"",
+        ""coordinates"": [
+          [
+            -122.3570430278778,
+            47.63594986979634
+          ],
+          [
+            -122.35703229904175,
+            47.63474252813613
+          ]
+        ]
+      }",QUEEN ANNE AVE N,BETWEEN BLAINE ST AND HOWE ST,W,57617,None,Residential Urban Village,Upper Queen Anne,Commercial,Urban Village Neighborhood,Street,Block face,0,6
+WAL1,United States of America,Washington,Seattle,"""geometry"": {
+        ""type"": ""LineString"",
+        ""coordinates"": [
+          [
+            -122.33735561370848,
+            47.661387925730004
+          ],
+          [
+            -122.33620762825012,
+            47.661391538723386
+          ]
+        ]
+      }",N 45TH ST,BETWEEN DENSMORE E AVE N AND WALLINGFORD AVE N,N,60877,None,Residential Urban Village,Wallingford,Commercial,Urban Village Neighborhood,Street,Block face,0,4
+WAL2,United States of America,Washington,Seattle,"""geometry"": {
+        ""type"": ""LineString"",
+        ""coordinates"": [
+          [
+            -122.33737170696259,
+            47.66134095679338
+          ],
+          [
+            -122.33618617057799,
+            47.66134095679338
+          ]
+        ]
+      }",N 45TH ST,BETWEEN DENSMORE E AVE N AND WALLINGFORD AVE N,S,60878,None,Residential Urban Village,Wallingford,Commercial,Urban Village Neighborhood,Street,Block face,0,9
+WAL3,United States of America,Washington,Seattle,"""geometry"": {
+        ""type"": ""LineString"",
+        ""coordinates"": [
+          [
+            -122.33500868082045,
+            47.661353602280464
+          ],
+          [
+            -122.33376145362853,
+            47.661353602280464
+          ]
+        ]
+      }",N 45TH ST,BETWEEN BURKE AVE N AND MERIDIAN AVE N,S,83466,None,Residential Urban Village,Wallingford,Commercial,Urban Village Neighborhood,Street,Block face,0,2
+WAL4,United States of America,Washington,Seattle,"""geometry"": {
+        ""type"": ""LineString"",
+        ""coordinates"": [
+          [
+            -122.33856797218324,
+            47.661384312736374
+          ],
+          [
+            -122.3373743891716,
+            47.661387925730004
+          ]
+        ]
+      }",N 45TH ST,BETWEEN WOODLAWN AVE N AND DENSMORE AVE N,N,60873,None,Residential Urban Village,Wallingford,Commercial,Urban Village Neighborhood,Street,Block face,0,2
+WED1,United States of America,Washington,Seattle,"""geometry"": {
+        ""type"": ""LineString"",
+        ""coordinates"": [
+          [
+            -122.29068517684937,
+            47.69165964285878
+          ],
+          [
+            -122.29076027870178,
+            47.69093023636452
+          ]
+        ]
+      }",35TH AVE NE,BETWEEN NE 86TH ST AND NE 87TH ST,W,28205,None,Outside,Wedgewood,Commercial,Urban Center Connector,Street,Block face,0,8
+WED2,United States of America,Washington,Seattle,"""geometry"": {
+        ""type"": ""LineString"",
+        ""coordinates"": [
+          [
+            -122.2907066345215,
+            47.690915792568546
+          ],
+          [
+            -122.29065299034117,
+            47.69017915366998
+          ]
+        ]
+      }",35TH AVE NE,BETWEEN NE 85TH ST AND NE 86TH ST,W,5377,None,Outside,Wedgewood,Commercial,Urban Center Connector,Street,Block face,12,0
+WES1,United States of America,Washington,Seattle,"""geometry"": {
+        ""type"": ""LineString"",
+        ""coordinates"": [
+          [
+            -122.38674581050871,
+            47.56108899003545
+          ],
+          [
+            -122.38672971725464,
+            47.562004824149966
+          ]
+        ]
+      }",CALIFORNIA AVE SW,BETWEEN SW OREGON ST AND SW ALASKA ST,E (SW Alaska St north to midblock crosswalk),32342,None,Hub Urban Village,West Seattle Junction,Commercial,Urban Village Neighborhood,Street,Block face,0,5
+WES2,United States of America,Washington,Seattle,"""geometry"": {
+        ""type"": ""LineString"",
+        ""coordinates"": [
+          [
+            -122.38672435283661,
+            47.56287358479727
+          ],
+          [
+            -122.38672971725464,
+            47.561997584417355
+          ]
+        ]
+      }",CALIFORNIA AVE SW,BETWEEN SW OREGON ST AND SW ALASKA ST,E (SW Oregon St south to midblock crosswalk),32342,None,Hub Urban Village,West Seattle Junction,Commercial,Urban Village Neighborhood,Street,Block face,0,4
+WES3,United States of America,Washington,Seattle,"""geometry"": {
+        ""type"": ""LineString"",
+        ""coordinates"": [
+          [
+            -122.38681018352509,
+            47.56199034468376
+          ],
+          [
+            -122.38680481910706,
+            47.56110708967896
+          ]
+        ]
+      }",CALIFORNIA AVE SW,BETWEEN SW OREGON ST AND SW ALASKA ST,W (SW Alaska St north to midblock crosswalk),32341,None,Hub Urban Village,West Seattle Junction,Commercial,Urban Village Neighborhood,Street,Block face,0,9
+WES4,United States of America,Washington,Seattle,"""geometry"": {
+        ""type"": ""LineString"",
+        ""coordinates"": [
+          [
+            -122.38678336143492,
+            47.562902543237385
+          ],
+          [
+            -122.38679945468903,
+            47.561965005608315
+          ]
+        ]
+      }",CALIFORNIA AVE SW,BETWEEN SW OREGON ST AND SW ALASKA ST,W (SW Oregon St south to midblock crosswalk),32341,None,Hub Urban Village,West Seattle Junction,Commercial,Urban Village Neighborhood,Street,Block face,0,0
+WHP1,United States of America,Washington,Seattle,"""geometry"": {
+        ""type"": ""LineString"",
+        ""coordinates"": [
+          [
+            -122.35650658607483,
+            47.518758547848684
+          ],
+          [
+            -122.35521912574768,
+            47.51736735377072
+          ]
+        ]
+      }",DELRIDGE WAY SW,BETWEEN 17TH AVE SW AND SW ROXBURY ST,SW,77910,None,Residential Urban Village,Westwood - Highland Park,Commercial,Urban Village Main,Street,Block face,0,0
+WHP2,United States of America,Washington,Seattle,"""geometry"": {
+        ""type"": ""LineString"",
+        ""coordinates"": [
+          [
+            -122.35649585723878,
+            47.51891795314798
+          ],
+          [
+            -122.35514402389526,
+            47.51745430448127
+          ]
+        ]
+      }",DELRIDGE WAY SW,BETWEEN 17TH AVE SW AND SW ROXBURY ST,NE,77909,None,Residential Urban Village,Westwood - Highland Park,Commercial,Urban Village Main,Street,Block face,0,0
