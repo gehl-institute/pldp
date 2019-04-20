@@ -28,7 +28,7 @@ The PLDP provides guidance for compiling your data in a standard format so that 
 
 ## Share Your Results
 
-We're compiling a list of datasets from the PLDP. You can study and learn from others or contribute your results: [pldp-datasets.md](pldp-datasets.md)
+We're compiling a list of datasets from the PLDP. You can study and learn from others or contribute your results: [pldp_datasets.md](pldp_datasets.md)
 
 ## Contributing and Using
 
